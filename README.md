@@ -127,13 +127,13 @@ Then run the appropriate Python entry point.
 
 Common controls include:
 
-C     Toggle Cursor Control
-E     Show Debug Info
-R     Register a face
-L     Toggle facial landmark visualization
-F     Toggle fullscreen
-ESC   Cancel registration
-Q     Quit
+-C     Toggle Cursor Control
+-E     Show Debug Info
+-R     Register a face
+-L     Toggle facial landmark visualization
+-F     Toggle fullscreen
+-ESC   Cancel registration
+-Q     Quit
 
 Gesture controls are handled through the computer-vision system.
 
